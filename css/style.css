@@ -1,0 +1,74 @@
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/7d/Cebu_Sunset.jpg );
+    background-size: 100% 100%;
+}
+
+
+
+
+h1 {
+    text-align: center;
+    transform: translate(0%, 90%);
+    -ms-transform: translate(20%, 10%);
+    font-size: 50;
+
+
+
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+
+}
+
+p {
+    text-align: center;
+    transform: translate(0%, 90%);
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: large;
+    font-style: italic;
+}
+
+button {
+    text-align: center;
+    background-color: black;
+    color: #f9c31d;
+    align-content: center;
+    font-size: 16px;
+    border-radius: 12px;
+    padding: 16px;
+
+    box-shadow: 0 5px #667;
+    transform: translateX(660px);
+    transform: translateZ(1tpx);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 200%);
+    -ms-transform: translate(-50%, -50%);
+
+
+
+
+
+}
+
+button {
+
+    background-color: black;
+    color: white;
+}
+
+fname {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-500%, 200%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+input {
+    align-content: center;
+    font-size: 40;
+    transform: translate(100%, 390%);
+    -ms-transform: translate(-50%, -50%);
+
+
+}
